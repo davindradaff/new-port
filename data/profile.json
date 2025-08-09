@@ -1,0 +1,42 @@
+{
+    "name": "Davindra Daffa Arenino - Electrical Engineering Students",
+    "description": "I am a Computer Engineering student at Semarang State Polytechnic, Department of Electrical Engineering, who has a great interest in the world of technology,especially in the fields of computer systems,electronics,and programming.My passion lies in exploring technical concepts and their practical application through hands-on projects,laboratory experiments,and teamwork.I enjoy challenging learning processes,such as problem solving, system design, nd hardware and software integration to create innovative and functional solutions. In addition, I always try to keep up with the latest technological developments in the fields of the Internet of Things (IoT), artificial intelligence (AI), and industrial automation, as a provision to face challenges in the world professionally. I am committed to continuing to develop technical skills, critical thinking, and adapting to change, so that in the future I can contribute as a creative, competent engineer who can make a positive impact in the field of technology.",
+    "profileImage": "images/fotoku.jpg",
+    "email": "davindradapp@gmail.com",
+    "phone": "+62 (882) 335-536-47 ",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/davindra-daffa-areninio-1530242b8"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/davindradaff"
+        },
+        
+    
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/davinndaff"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV2025.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electrical Engineering", "icon": "fas fa-bolt"},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip"},
+        {"name": "Programming PLC", "icon": "fas fa-network-wired"},
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	    {"name": "Mechanical Design", "icon": "fas fa-cogs"},
+        {"name": "Web Programming", "icon": "fab fa-js"},
+        {"name": "Comunication", "icon": "fab fa-globe"},
+        {"name": "Miscrosoft Office", "icon":  "fas fa-desktop"}, 
+	    {"name": "Team Work", "icon": "fas fa-globe"},
+        {"name": "marketing seller", "icon": "fas fa-globe"},
+        {"name": "care and maintenance", "icon": "fas fa-cogs"}  
+    ]
+}
